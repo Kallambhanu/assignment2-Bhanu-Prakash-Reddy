@@ -30,3 +30,9 @@ Table of 4 cities that i would recommend to visit.
 | San Francisco |  Golden Gate Bridge | 5 Hours |
 | New York | Hudson River | 2 Hours |
 | Chicago | Chicago River | 1 Hour |
+
+_ _ _
+# Inspirational Quotes
+> “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.” *- Charles Dickens*
+
+> “All we have to decide is what to do with the time that is given us.” *- J.R.R. Tolkein*
