@@ -36,3 +36,17 @@ _ _ _
 > “It is a far, far better thing that I do, than I have ever done; it is a far, far better rest I go to than I have ever known.” *- Charles Dickens*
 
 > “All we have to decide is what to do with the time that is given us.” *- J.R.R. Tolkein*
+
+_ _ _
+# quick-links
+> Forcing SSL and WWW using .htaccess
+
+[force https htaccess stack overflow](https://stackoverflow.com/questions/24711083/forcing-ssl-and-www-using-htaccess)
+
+```
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+```
+
+[Force HTTPS](https://css-tricks.com/snippets/htaccess/force-https/)
