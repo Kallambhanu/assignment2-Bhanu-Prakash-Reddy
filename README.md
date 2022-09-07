@@ -20,3 +20,13 @@ Los Angeles International Airport
 - LA Ontario ONT
 
 [AboutMefile](AboutMe.md)
+
+_ _ _
+# Table
+Table of 4 cities that i would recommend to visit.
+|Name of the City| location to visit in the city | time spend visiting the location in Hours |
+| --- | --- | ---|
+| Austin | eclectic live-music scene | 4 Hours |
+| San Francisco |  Golden Gate Bridge | 5 Hours |
+| New York | Hudson River | 2 Hours |
+| Chicago | Chicago River | 1 Hour |
